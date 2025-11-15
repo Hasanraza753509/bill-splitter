@@ -1,0 +1,7 @@
+🛠️ Tech Stack
+
+HTML5
+
+Tailwind CSS (loaded via CDN for simplicity)
+
+Vanilla JavaScript (ES6+)
